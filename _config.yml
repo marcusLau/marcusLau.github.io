@@ -1,11 +1,11 @@
 # Site settings
 author: Marcus Lau
-title: 
+title: Why did you decide to study Software Engineering?
 header-img: img/home-bg.png
 email: lau.marcus76@gmail.com
 copyright_name: Marcus Lau
 description: > # this means to ignore newlines until "baseurl:"
-  
+  kid wonder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  marcusLau
