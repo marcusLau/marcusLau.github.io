@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "BlackLivesMatter Donation CLI"
-date:       2020-06-06 18:18:57 +0000
+date:       2020-06-06 14:18:58 -0400
 permalink:  blacklivesmatter_donation_cli
 ---
 
