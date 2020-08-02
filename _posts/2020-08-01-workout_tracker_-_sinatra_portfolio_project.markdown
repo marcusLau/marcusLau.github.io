@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Workout Tracker - Sinatra Portfolio Project"
-date:       2020-08-02 00:32:37 +0000
+date:       2020-08-01 20:32:38 -0400
 permalink:  workout_tracker_-_sinatra_portfolio_project
 ---
 
